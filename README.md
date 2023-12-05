@@ -60,11 +60,11 @@ Amazon Simple Notification Service (SNS) - масштабируемый и ги�
 |-----------------------------|------------------------------------------|
 | Amazon ElastiCache          | Yandex Managed Service for Redis         |
 | Amazon ES                   | Yandex Managed Service for Elasticsearch |
-| AmazonQLDB                  | Нет точного аналога                      | * Yandex Cloud можно использовать базы данных, такие как Yandex Database.
+| AmazonQLDB                  | Нет точного аналога                      |  Yandex Cloud можно использовать базы данных, такие как Yandex Database.
 | AWS KMS                     | Yandex Key Management Service            |
-| CloudHSM                    | Нет точного аналога                      | * Yandex Key Management Service (KMS) в комбинации с использованием аппаратных HSM.
+| CloudHSM                    | Нет точного аналога                      |  Yandex Key Management Service (KMS) в комбинации с использованием аппаратных HSM.
 | Amazon Rekognition          | Yandex Vision API                        |
-| Amazon Textract             | Нет точного аналога                      | * AWS Textract предоставляет более широкий набор функций для обработки документов
+| Amazon Textract             | Нет точного аналога                      |  AWS Textract предоставляет более широкий набор функций для обработки документов
 | Amazon Lex                  | Yandex SpeechKit                         |
 | AWS Code Pipeline           | Yandex Cloud CI/CD                       |
 | Amazon SES                  | Yandex Mail for Domain                   |
