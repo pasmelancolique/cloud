@@ -56,7 +56,7 @@ Amazon Simple Notification Service (SNS) - масштабируемый и ги�
 
 ## Маппинг
 После изучения AWS и Yandex Cloud был произведён маппинг сервисов.
-|  Amazon                     | Yandex Cloud                             | Примечание                                                                         |
+|  Amazon                     | Yandex Cloud**                           | Примечание                                                                         |
 |-----------------------------|------------------------------------------|------------------------------------------------------------------------------------|
 | Amazon ElastiCache          | Yandex Managed Service for Redis         |                                                                                    |
 | Amazon ES                   | Yandex Managed Service for Elasticsearch |                                                                                    |
