@@ -17,7 +17,7 @@ description: pew pew pew pew pew
 2. Google с документациями провайдера
 
 ## Исходные данные
-<img src="">
+<img src="Screenshot_10.png">
 
 ## Описание сервисов
 
